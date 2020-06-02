@@ -1,4 +1,4 @@
-package negocio;
+package apresentação;
 
 import java.io.FileWriter;
 import java.io.IOException;
