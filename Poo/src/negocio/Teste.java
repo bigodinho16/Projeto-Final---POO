@@ -40,6 +40,7 @@ arq.close();
 
 System.out.printf("\n Dados foram gravados com sucesso em \"d:\\dados.txt\".\n");
 
+System.out.printf("\n Dados foram gravados com sucesso em \"d:\\dados.txt\".\n");
 
 
 	}
