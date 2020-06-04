@@ -31,8 +31,11 @@ public class ContatoDAO implements IContatoDAO{
 
 	@Override
 	public List<Contato> getAll() {
-		// TODO Auto-generated method stub
-		return null;
+	 // TODO Auto-generated method stub
+	return null;
+	
+	
+	
 	}
 
 }

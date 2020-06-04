@@ -10,10 +10,10 @@ private String email = "joao@email.com";
 private String celular ="(21) 98765-4321";
 private String tipo = "Família";
 	
+public Contato(int i, String nome, String email, String celular, String string, String string2) {
 
-public Contato(int i, String string, String string2, String string3, String string4, String string5) {
-	// TODO Auto-generated constructor stub
 }
+
 
 public String getID() {
 	return id;
@@ -69,6 +69,8 @@ public void setTipo(String tipo) {
 public String toString() {
 	return  this.id+ "  ,'" + this.nome + ",'" + this.sobrenome+ ",'"+ this.email+ ",'" + this.celular+ ",'" + this.tipo+"'";
 }
+
+
 
 
 }

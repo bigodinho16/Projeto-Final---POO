@@ -12,7 +12,6 @@ public class AppCliente {
 		dao.salvar(c);
 		
 		System.out.print(c);
-
 	}
 }
 	
